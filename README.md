@@ -1,16 +1,38 @@
 ### Hi there 👋
 
-<!--
-**devopsfan-com/devopsfan-com** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## `PS: 这是一篇废话文，如果你不想看，可以直接跳过`
 
-Here are some ideas to get you started:
+##
+#### 本文主要包含[devopsfan.com](https://www.devopsfan.com) 个人项目的介绍，规划，以及一些个人的想法。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+##### 初衷
+在IT行业也是打工好多年，陆陆续续也有了一些经验和积累。
+
+同时也经历了太多玩具项目和浪费不少时间、气力、金钱在网络里面；
+
+此时此刻的心境也许跟以往无数次的心境没有两样，也许到头一场空；
+
+但还是希望尽力追寻和顺应自己内心的想法；
+
+## 
+> 项目原则
+>> 
+>> - 以Devops分享交流，讨论实践为目的；推荐网络实时视频语音视频沟通，线下交流更好！
+>> - 内容应该紧贴当下技术实践，同时关注长远发展方向
+>> - 互相尊重体谅，海纳百川
+>> - 项目内容和服务尽量采用海外服务；尽量规避科学上网问题，注重保护隐私！
+>> - 勿谈政治！珍爱生命！
+
+##
+> 项目介绍
+>> 本项目是一个个人博客项目，主要用于记录devops相关的实践经验，学习分享和前景展望等；
+>> 
+>> 并以此为内容基础，尝试`通过vlog实践形式，希望能获得一些被动收入`;
+>> 
+>> 分享内容同样也包含一些鸡零狗碎的行业信息和心得体会；希望大家多多包含，不喜勿喷！
+
+## 
+>项目实施方式
+>> 1. 主要写文章，做网络推广；接入各平台做推广
+>> 2. 做TG讨论组，多交朋友广交流；也顺带做推广
